@@ -1,7 +1,7 @@
 # UFOs
 <h1>Overview of Project</h1>
 <p>The purpose of this analysis is to review a dynamic webpage created to display an article and data related to UFO sitings.  This webpage allows for filtering of information based on date, city, state, coutry and/or shape input by the user.</p>
-<br>
+
 <h1>Results</h1>
 <p>With the use of JavaScript and Bootstrap the webpage is dynamic in that the table containing the UFO data is updated based on user input.<p>
 <p>The user can filter the information based on date, city, state, country and/or shape.  As the user updates their selection the table refreshes.  The user may enter one filter, a combination of filters, or all filters. Below are the steps to utilize the filtering option.  Although they are reflected in the order they appear in the webpage there is no requirement to complete them in this order.</p>
